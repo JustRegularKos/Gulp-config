@@ -1,2 +1,2 @@
 # Gulp-config
-My Gulp config file
+My Gulp config
